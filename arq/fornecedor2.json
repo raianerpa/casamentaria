@@ -3,9 +3,7 @@
     "titulo": "Fotos",
     "capa": "capa_foto.jpg",
     "capa_big": "capa_foto_big.jpg",
-    "endereco": [
-        "Av José Moreira Martins Rato, Num 1000, Bairro de Fátima, Serra/ES, cep: 29160-790"
-    ],
+    "endereco": "Av José Moreira Martins Rato, Num 1000, Bairro de Fátima, Serra/ES, cep: 29160-790",
     "servicos": [
       "Fotos pré-casamento",
       "Fotos cerimonia",
@@ -18,9 +16,7 @@
     "titulo": "Floricultura",
     "capa": "capa_longe.jpg.jpg",
     "capa_big": "capa_longe_big.jpg",
-    "endereco": [
-      "Av José Moreira Martins Rato, Num 10, Bairro de Fátima, Serra/ES, cep: 29160-790"
-    ],
+    "endereco": "Av José Moreira Martins Rato, Num 10, Bairro de Fátima, Serra/ES, cep: 29160-790",
     "servicos": [
       "Arranjos de flores para Igreja",
       "Buquê para Noiva",
@@ -31,9 +27,7 @@
     "titulo": "Decoração",
     "capa": "capa_revolta.jpg",
     "capa_big": "capa_revolta_big.jpg",
-    "endereco": [
-      "Rua Itabapoana, Num 63, Hélio Ferraz, Serra/ES"
-    ],
+    "endereco": "Rua Itabapoana, Num 63, Hélio Ferraz, Serra/ES",
     "servicos": [
       "Decoração Igreja",
       "Decoração cerimonial"
@@ -43,9 +37,7 @@
     "titulo": "Doces",
     "capa": "capa_revolta.jpg",
     "capa_big": "capa_revolta_big.jpg",
-    "endereco": [
-      "Rua , Num 1, Bairro de Fátima, Serra/ES, cep: 29160-790"
-    ],
+    "endereco": "Rua , Num 1, Bairro de Fátima, Serra/ES, cep: 29160-790",
     "servicos": [
       "Brigadeiro",
       "Beijinho",
@@ -58,9 +50,7 @@
     "titulo": "Vestido de Noiva",
     "capa": "capa_revolta.jpg",
     "capa_big": "capa_revolta_big.jpg",
-    "endereco": [
-      "Rua Rio Orenoco, Num 10, Hélio Ferraz, Serra/ES"
-    ],
+    "endereco": "Rua Rio Orenoco, Num 10, Hélio Ferraz, Serra/ES",
     "servicos": [
       "Vestido",
       "Véu",
@@ -71,9 +61,7 @@
     "titulo": "Salão de Beleza",
     "capa": "capa_revolta.jpg",
     "capa_big": "capa_revolta_big.jpg",
-    "endereco": [
-      "Av José Moreira Martins Rato, Num 1, Bairro de Fátima, Serra/ES, cep: 29160-790"
-    ],
+    "endereco": "Av José Moreira Martins Rato, Num 1, Bairro de Fátima, Serra/ES, cep: 29160-790",
     "servicos": [
       "Penteado",
       "Maquiagem",
@@ -86,9 +74,7 @@
     "titulo": "Só para Noivos",
     "capa": "capa_revolta.jpg",
     "capa_big": "capa_revolta_big.jpg",
-    "endereco": [
-      "Rua B5, Num 1, Hélio Ferraz, Serra/ES"
-    ],
+    "endereco": "Rua B5, Num 1, Hélio Ferraz, Serra/ES",
     "servicos": [
       "Terno",
       "Gravata",
@@ -99,9 +85,7 @@
     "titulo": "Cerimonial",
     "capa": "capa_revolta.jpg",
     "capa_big": "capa_revolta_big.jpg",
-    "endereco": [
-      "Rua Mario Batalha, Num 10, Bairro de Fátima, Serra/ES"
-    ],
+    "endereco": "Rua Mario Batalha, Num 10, Bairro de Fátima, Serra/ES",
     "servicos": [
       "Mesas",
       "Cadeiras",
